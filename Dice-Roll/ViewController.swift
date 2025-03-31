@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         diceImageView1.image = UIImage(imageLiteralResourceName: "DiceOne")
         diceImageView2.image = UIImage(imageLiteralResourceName: "DiceOne")
+        //test push 1 
         
     }
 
