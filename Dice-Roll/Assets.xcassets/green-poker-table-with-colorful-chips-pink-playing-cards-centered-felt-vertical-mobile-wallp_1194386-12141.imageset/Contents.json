@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "green-poker-table-with-colorful-chips-pink-playing-cards-centered-felt-vertical-mobile-wallp_1194386-12141.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
